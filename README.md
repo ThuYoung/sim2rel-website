@@ -9,7 +9,7 @@
 ## 🔗 在线预览 (Live Demo)
 
 点击下方链接访问网站：
-**[https://[ThuYoung].github.io/sim2rel-website/](https://[ThuYoung].github.io/sim2rel-website/)**
+**[https://ThuYoung.github.io/sim2rel-website/](https://ThuYoung.github.io/sim2rel-website/)**
 
 *(注意：首次部署可能需要 1-2 分钟生效)*
 
